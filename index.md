@@ -4,3 +4,4 @@
 ![Image of Yaktocat](https://cdn.pixabay.com/photo/2023/03/04/20/44/student-cartoon-7830116_1280.png)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+var myVar = "Hello, world!";
